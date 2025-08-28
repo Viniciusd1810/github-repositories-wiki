@@ -24,7 +24,6 @@ input{
     border: 1px solid #999999;
     color: #ffffff;
     border-radius: 12px;
-    min-width: 250px;
     width: 80%;
     margin-right: 12px;
     background: transparent;
@@ -33,6 +32,7 @@ input{
 }
 
 button{
+    position: absolute;
     border: 1px solid #999999;
     border-radius: 12px;
     margin-right: 12px;
