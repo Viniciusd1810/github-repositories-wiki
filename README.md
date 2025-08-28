@@ -37,3 +37,11 @@ git clone https://github.com/Viniciusd1810/github-repositories-wiki.git
 cd github-repositories-wiki
 npm install
 npm start
+```
+
+Deployment
+
+This project can be deployed using GitHub Pages:
+```
+npm run build
+npx gh-pages -d build
