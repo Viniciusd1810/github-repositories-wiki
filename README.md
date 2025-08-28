@@ -19,7 +19,8 @@ This project allows you to:
 The app fetches data directly from the **GitHub API** and displays it in a clean, minimal interface.
 
 ## Demo
-<img width="1577" height="877" alt="demo" src="https://github.com/user-attachments/assets/43328b9e-b096-4239-9228-cf859e8c0f4d" />
+<img width="1577" height="765" alt="demo" src="https://github.com/user-attachments/assets/c17bd39e-033b-48c9-848e-c6b21b036c4f" />
+
 
 Check it out on GitHub Pages:  
 [https://viniciusd1810.github.io/github-repositories-wiki/](https://viniciusd1810.github.io/github-repositories-wiki/)
