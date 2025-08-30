@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/github-repositories-wiki/static/css/main.597bfa95.css",
+    "main.css": "/github-repositories-wiki/static/css/main.1467ef8e.css",
     "main.js": "/github-repositories-wiki/static/js/main.11c52624.js",
     "static/media/background.png": "/github-repositories-wiki/static/media/background.9cf2f2903622c74dc58b.png",
     "index.html": "/github-repositories-wiki/index.html",
-    "main.597bfa95.css.map": "/github-repositories-wiki/static/css/main.597bfa95.css.map",
+    "main.1467ef8e.css.map": "/github-repositories-wiki/static/css/main.1467ef8e.css.map",
     "main.11c52624.js.map": "/github-repositories-wiki/static/js/main.11c52624.js.map"
   },
   "entrypoints": [
-    "static/css/main.597bfa95.css",
+    "static/css/main.1467ef8e.css",
     "static/js/main.11c52624.js"
   ]
 }
