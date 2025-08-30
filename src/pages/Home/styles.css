@@ -29,6 +29,7 @@ input{
     background: transparent;
     font-size: 1.15rem;
     padding: 1rem;
+    z-index: 10;
 }
 
 button{
