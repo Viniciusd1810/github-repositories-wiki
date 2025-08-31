@@ -47,8 +47,8 @@ function App() {
               <p>{ currentUser.bio}</p>
             </div>
           </div>
-              ) : null}
-          <hr />
+          ) : null}
+          <hr/>
           {repositories?.length ? (
             <div>
               <h4 className='repositories'>Repositories</h4>
