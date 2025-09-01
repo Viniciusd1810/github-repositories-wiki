@@ -53,7 +53,7 @@ function App() {
             <div>
               <h4 className='repositories'>Repositories</h4>
               {repositories.map(repo => (
-                <ItemList html_url={repo.html_url} title={repo.name} description={repo.description} />
+                <ItemList html_url={repo.html_url} title={repo.name} description={repo.description} language={repo.language}/>
               ))}
             </div>
           ) : null}
